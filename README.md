@@ -1,8 +1,26 @@
 # startup_idea_evaluator
 
-A new Flutter project.
 
 ## Getting Started
+
+## App Description:
+This app allows users to submit startup ideas, get fun AI-generated feedback, vote on ideas, and view the leaderboard of top ideas.
+
+## Tech Stack:
+- Flutter
+- Hive (local DB)
+- Provider (State management)
+- Dart
+- Material UI
+
+## Features Implemented:
+- Submit startup ideas
+- View ideas list
+- Get fake AI-generated feedback
+- Upvote other idea
+- Leaderboard screen
+- Dark/Light Theme Switching
+
 
 This project is a starting point for a Flutter application.
 
