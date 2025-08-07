@@ -6,12 +6,25 @@
 ## App Description:
 This app allows users to submit startup ideas, get fun AI-generated feedback, vote on ideas, and view the leaderboard of top ideas.
 
+##  Download APK
+You can try the app by downloading the debug APK from the link below:
+🔗 [Download APK](https://drive.google.com/file/d/1awZQRHOyJfOt3wEIpZtwWLszLwAQgBH2/view?usp=sharing)
+
 ## Tech Stack:
 - Flutter
 - Hive (local DB)
 - Provider (State management)
 - Dart
 - Material UI
+
+## Folder Structure
+
+- `lib/`
+  - `main.dart`
+  - `screens/`
+  - `widgets/`
+  - `models/`
+  - `controllers/`
 
 ## Features Implemented:
 - Submit startup ideas
@@ -21,14 +34,13 @@ This app allows users to submit startup ideas, get fun AI-generated feedback, vo
 - Leaderboard screen
 - Dark/Light Theme Switching
 
+## ▶How to Run Locally
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/anuj-1637/startup-idea-evaluator.git
+cd startup-idea-evaluator
+flutter pub get
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
