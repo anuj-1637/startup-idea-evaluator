@@ -10,6 +10,10 @@ This app allows users to submit startup ideas, get fun AI-generated feedback, vo
 You can try the app by downloading the debug APK from the link below:
 🔗 [Download APK](https://drive.google.com/file/d/1awZQRHOyJfOt3wEIpZtwWLszLwAQgBH2/view?usp=sharing)
 
+##  Video Walkthrough (2–3 mins)
+[Watch the walkthrough on YouTube](https://youtu.be/lrkuNN89rKs)
+
+
 ## Tech Stack:
 - Flutter
 - Hive (local DB)
